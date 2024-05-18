@@ -21,7 +21,7 @@ The Financial Literacy Assistant is designed to help users learn about financial
 - Logging customer interactions
 - leveraging interactions via WhatsApp 
 
-## Installation
+## Kindly Follow Along
 
 To get started with the project, follow along on our presentation:
 
